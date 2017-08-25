@@ -1,6 +1,6 @@
 
 # bootstrap
-#面试
+面试
 行内元素：a、b、span、img、input、strong、select、label、em、button、textarea
 块级元素：div、ul、li、dl、dt、dd、p、h1-h6、blockquote
 空元素：即系没有内容的HTML元素，例如：br、meta、hr、link、input、img
